@@ -1,10 +1,10 @@
 <div align="center">
   <img src="public/logo.png" width="160" height="160" alt="ThearumOS Logo" style="border-radius: 32px; box-shadow: 0 20px 40px rgba(0,0,0,0.4);">
   
-  <p align="center">
-  # ThearumOS
-  ##The Supreme Life Operating System — Local, Private, Insanely Fast.##
-  </p>
+<p align="center">
+  <h1>ThearumOS</h1>
+  <h2>The Supreme Life Operating System — Local, Private, Insanely Fast.</h2>
+</p>
   
   [![Privacy First](https://img.shields.io/badge/Privacy-Local%20Only-emerald?style=for-the-badge&logo=lock)](https://github.com/thearumrin/ThearumOS)
   [![Security](https://img.shields.io/badge/Security-AES--256--GCM-blue?style=for-the-badge)](https://github.com/thearumrin/ThearumOS)
