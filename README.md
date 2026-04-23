@@ -32,6 +32,7 @@ ThearumOS is a high-performance intelligence engine designed for the elite profe
 
 ## 🛠 12 Intelligence Modules
 
+<p align="center">
 |    Module     | Focus          | Intelligence                                |
 | :-----------: | :------------- | :------------------------------------------ |
 | **Dashboard** | Command Center | Live stats & Daily Score                    |
@@ -47,6 +48,7 @@ ThearumOS is a high-performance intelligence engine designed for the elite profe
 |   **Goals**   | Vision         | Long-term objective tracking                |
 | **Calendar**  | Timeline       | Visual commitment mapping                   |
 
+</p>
 ---
 
 ## 🔒 Security Architecture
