@@ -31,24 +31,24 @@ ThearumOS is a high-performance intelligence engine designed for the elite profe
 ---
 
 ## 🛠 12 Intelligence Modules
+<div align="center">
 
-<p align="center">
 |    Module     | Focus          | Intelligence                                |
 | :-----------: | :------------- | :------------------------------------------ |
 | **Dashboard** | Command Center | Live stats & Daily Score                    |
-|   **Tasks**   | Execution      | Priority-aware todo engine                  |
+| **Tasks**     | Execution      | Priority-aware todo engine                  |
 | **Projects**  | Construction   | Kanban-style roadmap                        |
-|  **Finance**  | Wealth         | Encrypted Income/Expense/Investment tracker |
-|  **Health**   | Vitality       | Biometric logs (Weight/Sleep/Water/Gym)     |
-|  **Habits**   | Consistency    | Visual streak & routine management          |
+| **Finance**   | Wealth         | Encrypted Income/Expense/Investment tracker |
+| **Health**    | Vitality       | Biometric logs (Weight/Sleep/Water/Gym)     |
+| **Habits**    | Consistency    | Visual streak & routine management          |
 | **Learning**  | Growth         | Personal Knowledge Base                     |
-|  **People**   | Network        | Encrypted CRM & Birthday engine             |
-|   **Notes**   | Second Brain   | AI-assisted thought indexing                |
-|  **Journal**  | Reflection     | Mood analytics & Memory threading           |
-|   **Goals**   | Vision         | Long-term objective tracking                |
+| **People**    | Network        | Encrypted CRM & Birthday engine             |
+| **Notes**     | Second Brain   | AI-assisted thought indexing                |
+| **Journal**   | Reflection     | Mood analytics & Memory threading           |
+| **Goals**     | Vision         | Long-term objective tracking                |
 | **Calendar**  | Timeline       | Visual commitment mapping                   |
 
-</p>
+</div>
 ---
 
 ## 🔒 Security Architecture
