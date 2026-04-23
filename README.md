@@ -49,6 +49,7 @@ ThearumOS is a high-performance intelligence engine designed for the elite profe
 | **Calendar**  | Timeline       | Visual commitment mapping                   |
 
 </div>
+
 ---
 
 ## 🔒 Security Architecture
