@@ -1,6 +1,3 @@
-<div align="center">
-  <img src="public/logo.png" width="160" height="160" alt="ThearumOS Logo" style="border-radius: 32px; box-shadow: 0 20px 40px rgba(0,0,0,0.4);">
-  
   # ThearumOS v1.0.0
   **The Supreme Life Operating System — Local, Private, Insanely Fast.**
   
