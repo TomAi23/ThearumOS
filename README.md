@@ -8,9 +8,9 @@
 
 <br>
 
-[![Privacy First](https://img.shields.io/badge/Privacy-Local%20Only-emerald?style=for-the-badge&logo=lock&logoColor=white)](https://github.com/thearumrin/ThearumOS)
-[![Security](https://img.shields.io/badge/Security-AES--256--GCM-blue?style=for-the-badge&logo=shield&logoColor=white)](https://github.com/thearumrin/ThearumOS)
-[![Platform](https://img.shields.io/badge/Platform-macOS%20%7C%20Windows-lightgrey?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/thearumrin/ThearumOS)
+[![Privacy First](https://img.shields.io/badge/Privacy-Local%20Only-emerald?style=for-the-badge&logo=lock&logoColor=white)](https://github.com/TomAi23/ThearumOS)
+[![Security](https://img.shields.io/badge/Security-AES--256--GCM-blue?style=for-the-badge&logo=shield&logoColor=white)](https://github.com/TomAi23/ThearumOS)
+[![Platform](https://img.shields.io/badge/Platform-macOS%20%7C%20Windows-lightgrey?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/TomAi23/ThearumOS)
 
 </div>
 
