@@ -1,4 +1,4 @@
-  # ThearumOS v1.0.0
+  # ThearumOS
   **The Supreme Life Operating System — Local, Private, Insanely Fast.**
   
   [![Privacy First](https://img.shields.io/badge/Privacy-Local%20Only-emerald?style=for-the-badge&logo=lock)](https://github.com/thearumrin/ThearumOS)
