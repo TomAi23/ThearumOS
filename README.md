@@ -63,6 +63,28 @@ ThearumOS is a high-performance intelligence engine designed for the elite profe
 
 ---
 
+## 🛠 Tech Stack
+
+ThearumOS is built with a high-performance, modern stack designed for speed and local-first reliability.
+
+### **Languages & Core**
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Electron](https://img.shields.io/badge/electron-%232C2E3A.svg?style=for-the-badge&logo=electron&logoColor=9FEAF9)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+
+### **Styling & UI**
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Radix UI](https://img.shields.io/badge/radix%20ui-161616.svg?style=for-the-badge&logo=radix-ui&logoColor=white)
+![Lucide](https://img.shields.io/badge/lucide-%23646CFF.svg?style=for-the-badge&logo=lucide&logoColor=white)
+
+### **State & Data**
+![TanStack Query](https://img.shields.io/badge/-Tanstack%20Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white)
+![Zod](https://img.shields.io/badge/zod-%233068b7.svg?style=for-the-badge&logo=zod&logoColor=white)
+![Recharts](https://img.shields.io/badge/recharts-%2322B5AD.svg?style=for-the-badge&logo=recharts&logoColor=white)
+
+---
+
 <p align="center">
   Developed by <b>Thearum Rin</b>. Insanely great productivity awaits.
 </p>
