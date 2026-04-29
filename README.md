@@ -17,7 +17,6 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/b095f748-6fd1-49e9-84ea-d225e9432e9c" width="1000" alt="ThearumOS">
 </p>
----
 
 ## The Vision
 
