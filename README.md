@@ -1,3 +1,4 @@
+<div align="center">
 <img src="public/logo.png" width="160" height="160" alt="ThearumOS Logo" />
 
 # ThearumOS
@@ -13,9 +14,6 @@
 </div>
 
 ---
-<img width="1440" height="900" alt="ThearumOS" src="https://github.com/user-attachments/assets/26103ed7-d5ab-4c01-867c-e92140e84874" />
-<div align="center">
-
 
 ## The Vision
 
